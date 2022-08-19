@@ -2,7 +2,7 @@ import { ThemeProvider } from "styled-components";
 import Header from "./components/Header";
 import { Container } from "./components/styles/Container.styled";
 import GlobalStyles from "./components/styles/Global";
-// https://www.youtube.com/watch?v=02zO0hZmwnw 16:53
+// https://www.youtube.com/watch?v=02zO0hZmwnw 27:26
 
 const theme = {
   colors: {
